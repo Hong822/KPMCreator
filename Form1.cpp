@@ -10,7 +10,4 @@ void Form1::Test22()
 	/*lxw_workbook* pWorkbook = 0;
 	pWorkbook = workbook_new(FilePath);*/
 	int iii = 100;
-
-	Test
-	
 }
