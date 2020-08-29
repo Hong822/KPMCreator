@@ -11,4 +11,5 @@ void Form1::Test22()
 	pWorkbook = workbook_new(FilePath);
 	int iii = 100;
 	
+	Test 1;
 }
